@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-label="AI Vision Ledger screenshot placeholder">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1b2257"/>
+      <stop offset="100%" stop-color="#4a1d54"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bg2)"/>
+  <rect x="40" y="45" width="1120" height="610" rx="24" fill="#111a35" stroke="#8e6df0" stroke-opacity="0.6"/>
+  <text x="90" y="120" fill="#f2f5ff" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="700">AI Vision Ledger Overview</text>
+  <rect x="90" y="165" width="490" height="430" rx="16" fill="#17264b"/>
+  <rect x="610" y="165" width="500" height="200" rx="16" fill="#17264b"/>
+  <rect x="610" y="395" width="500" height="200" rx="16" fill="#17264b"/>
+  <text x="95" y="690" fill="#b8c5ee" font-family="Inter, Arial, sans-serif" font-size="22">Replace with your real screenshot: assets/ai-vision-ledger-overview.svg</text>
+</svg>
